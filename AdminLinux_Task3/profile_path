@@ -1,0 +1,89 @@
+/etc/skel/.profile
+/home/ubuntu/.profile
+/home/youssef/.cache/lvim/undo/%home%youssef%.profile
+/home/youssef/.local/share/lvim/mason/packages/lua-language-server/libexec/meta/template/jit.profile.lua
+/home/youssef/.profile
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/lib/x64/clang_rt.profile-x86_64.lib
+/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/lib/x86/clang_rt.profile-i386.lib
+/mnt/c/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt/windows.system.profile.h
+/mnt/c/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt/windows.system.profile.idl
+/mnt/c/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt/windows.system.profile.systemmanufacturers.h
+/mnt/c/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt/windows.system.profile.systemmanufacturers.idl
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/CentOS_7_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Fedora_Linux_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Fedora_Linux_(Vendor_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Fedora_Linux_24_(Vendor_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Fedora_Linux_25_(Vendor_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/FreeBSD_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Generic_Linux_(MySQL_tar_package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Linux_(Custom).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/MySQL_Sandbox_Linux(MySQL_tar_package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/MySQL_Sandbox_MacOS(MySQL_tar_package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/OpenSolaris_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Oracle_Linux_6_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Oracle_Linux_7_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/RHEL_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/RHEL_7_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/SLES_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Ubuntu_Linux_(MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Ubuntu_Linux_(Vendor_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Ubuntu_Linux_(sysvinit,_MySQL_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Ubuntu_Linux_(sysvinit,_Vendor_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Windows_(MySQL_5.5_Installer_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Windows_(MySQL_5.6_Installer_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Windows_(MySQL_5.7_Installer_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Windows_(MySQL_8.0_Installer_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/Windows_x64_(MySQL_x86_zip_Package).xml
+/mnt/c/Program Files/MySQL/MySQL Workbench 8.0/mysql.profiles/macOS_(MySQL_Package).xml
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/.settings
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/.settings/org.eclipse.equinox.p2.artifact.repository.prefs
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/.settings/org.eclipse.equinox.p2.engine.prefs
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions/jvmargs
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/.lock
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/1732044195198.profile.gz
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/1732044428242.profile.gz
+/mnt/c/Users/youss/.p2/org.eclipse.equinox.p2.engine/profileRegistry/C__Users_youss_eclipse_cpp-2024-09_eclipse.profile/1732044441746.profile.gz
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings/org.eclipse.equinox.p2.artifact.repository.prefs
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions/jvmargs
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.lock
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1730658802230.profile.gz
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1730658802258.profile.gz
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1730658805216.profile.gz
+/mnt/c/Users/youss/AppData/Local/DBeaver/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1730658805741.profile.gz
+/mnt/c/Users/youss/Downloads/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/x86_64-w64-mingw32/include/windows.system.profile.h
+/mnt/c/Users/youss/Downloads/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/x86_64-w64-mingw32/include/windows.system.profile.idl
+/mnt/c/Users/youss/Downloads/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/x86_64-w64-mingw32/include/windows.system.profile.systemmanufacturers.h
+/mnt/c/Users/youss/Downloads/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/x86_64-w64-mingw32/include/windows.system.profile.systemmanufacturers.idl
+/mnt/c/mingw64/x86_64-w64-mingw32/include/windows.system.profile.h
+/mnt/c/mingw64/x86_64-w64-mingw32/include/windows.system.profile.idl
+/mnt/c/mingw64/x86_64-w64-mingw32/include/windows.system.profile.systemmanufacturers.h
+/mnt/c/mingw64/x86_64-w64-mingw32/include/windows.system.profile.systemmanufacturers.idl
+/mnt/c/msys64/etc/skel/.profile
+/mnt/c/msys64/home/youss/.profile
+/mnt/c/msys64/mingw32/include/windows.system.profile.h
+/mnt/c/msys64/mingw32/include/windows.system.profile.idl
+/mnt/c/msys64/mingw32/include/windows.system.profile.systemmanufacturers.h
+/mnt/c/msys64/mingw32/include/windows.system.profile.systemmanufacturers.idl
+/mnt/c/msys64/mingw64/include/windows.system.profile.h
+/mnt/c/msys64/mingw64/include/windows.system.profile.idl
+/mnt/c/msys64/mingw64/include/windows.system.profile.systemmanufacturers.h
+/mnt/c/msys64/mingw64/include/windows.system.profile.systemmanufacturers.idl
+/root/.profile
+/usr/i686-w64-mingw32/include/windows.system.profile.systemmanufacturers.h
+/usr/share/base-files/dot.profile
+/usr/share/base-files/dot.profile.md5sums
+/usr/share/dot.profile
+/usr/share/dot.profile.md5sums
+/usr/share/lintian/profiles/dpkg/main.profile
+/usr/share/mingw-w64/include/windows.system.profile.systemmanufacturers.h
+/usr/x86_64-w64-mingw32/include/windows.system.profile.systemmanufacturers.h
