@@ -1,0 +1,10 @@
+Section_5:
+
+- adduser vs useradd
+  - useradd is not a script it creates a user only without setting a password for him
+    and no home directory and also there are no .bashrc or any configrations for him
+
+  - adduser is a script and it creates a user and set a password for him 
+    and creates a home directory with all the configration files 
+    and it also give some information about the user
+
