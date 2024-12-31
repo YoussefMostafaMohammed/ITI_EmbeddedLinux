@@ -1,0 +1,5 @@
+
+Section2::LastQuestion:
+
+The passwd command has the SUID bit (s) because it needs to temporarily run with root privileges to modify sensitive system files.
+This ensures that all users can securely change their passwords while maintaining overall system security.
